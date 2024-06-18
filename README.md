@@ -1,16 +1,15 @@
-# Nome do projeto
+Raiz
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+O objetivo geral do projeto RAIZ é criar um módulo de um sistema SCM capaz de gerenciar os recursos de uma organização voltada principalmente para ambiente e-commerce, de maneira eficiente e inteligente, garantindo o controle dos gastos dos produtos, tanto para entrega, quanto para a obtenção de fornecedores, por exemplo.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Hugo Freitas da Cruz
+* João Pedro Reis Martins
+* Matheus Godinho Blaselbauer
+* Nícolas Cleiton Basílio Viana
+* Vinicius Henrique de Oliveira Neves
 
 ## Professor
 
-* Nome completo do professor
+* Rosilane Ribeiro da Mota
