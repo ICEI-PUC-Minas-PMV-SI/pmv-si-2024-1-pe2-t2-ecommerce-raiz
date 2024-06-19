@@ -2,7 +2,7 @@
 
 ## Processo 1: Gerenciamento de estoque
 
-![processo de Gerenciamento de estoque TO BE](Processo_de_Gerenciamento_de_Estoque_TO_BE.png)
+![processo de Gerenciamento de estoque TO BE](Processo%20de%20Gestao%20de%20Fornecedores%20TO%20BE.png)
 
 A solução encontrada para os problemas do processo AS IS de estoque de produtos foi o desenvolvimento de um fluxo que visa a automatização de inúmeras tarefas repetitivas e o aprimoramento na integridade dos dados. O TO BE do fluxo de estoque permite que o funcionário faça a validação do item em questão e cadastre-o dentro do sistema em um banco de dados que consiga garantir a estabilidade e confiança dos dados. Além disso, existe a possibilidade de que o funcionário faça o reporte dos erros encontrados nos produtos, documentando a situação ocorrida e notificando o fornecedor. Tal fluxo proposto, apesar de resolver a maioria dos problemas, ainda não é capaz de realizar de maneira automática as notificações dos incidentes dos produtos encontrados pelos funcionários para os fornecedores.
 
