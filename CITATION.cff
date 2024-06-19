@@ -1,18 +1,16 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Cleiton
+    given-names: Nícolas 
+  - family-names: Freitas
+    given-names: Hugo 
+  - family-names: Godinho
+    given-names: Matheus 
+  - family-names: Henrique
+    given-names: Vinicius 
+  - family-names: Pedro
+    given-names: João 
     
   - name-suffix: Professor
     affiliation: PUC Minas
@@ -30,15 +28,15 @@ authors:
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "e-commerce"
+  - "SCM"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t2-ecommerce-raiz"
+title: "Raiz"
 abstract: |
     "
-    Breve descrição do projeto
+    Módulo SCM dedicado a gerenciar processos de sistemas e-commerce com o Sydle One
     "
 ...
