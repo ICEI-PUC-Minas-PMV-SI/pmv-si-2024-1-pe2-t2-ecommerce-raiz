@@ -8,7 +8,7 @@ A solução encontrada para os problemas do processo AS IS de estoque de produto
 
 ## Processo 2: Processo de Vendas dos produtos
 
-![Processo de Vendas dos produtos  TO BE](Processo%20de%20Vendas%20dos%20produtos%20TO%20BE.png)
+![Processo de Vendas dos produtos  TO BE](Processo_de_Vendas_dos_produtos_TO_BE.png)
 
 Como solução para os problemas detectados no processo de vendas, o sistema a ser desenvolvido visa automatizar muitas das tarefas requeridas no fluxo, como o cálculo do frete e a pesquisa do produto. Os benefícios deste novo sistema visam a redução de cálculos de frete errado, aprimoramento na documentação das vendas, aumento na produtividade dos funcionários - tornando-os mais aptos a lidar com altas demandas - e a possibilidade de armazenar históricos de compras dos clientes com base no cadastro dos mesmos, facilitando nos próximos pedidos iguais. Apesar de todos os benefícios, pode-se observar a dependência de serviços externos, como as aplicações relacionadas ao correio para o cálculo do frete automático, onde tal dependência pode resultar na indisponibilidade de tais fluxos de automação na queda dos mesmos.
 
